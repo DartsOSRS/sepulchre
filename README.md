@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Sepulchre
+A RuneLite plugin for Sepulchre.
